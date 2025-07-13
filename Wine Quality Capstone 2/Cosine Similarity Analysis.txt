@@ -1,0 +1,39 @@
+Cosine Similarity Analysis
+Apr 2025 - May 2025
+Springboard logo
+Associated with Springboard
+Designed and implemented a cosine similarity model in Python to measure similarity between variables in textual and categorical datasets. Leveraged NumPy and Pandas for data manipulation, normalization, and vector space modeling. Interpreted similarity scores to identify meaningful relationships within the data, demonstrating practical applications in clustering, recommendation systems, and pattern recognition.
+
+
+
+
+Customer Segmentation with K-Means Clustering
+May 2025 - May 2025
+Springboard logo
+Associated with Springboard
+Applied K-Means clustering to segment wine customers based on purchasing behavior and responsiveness to marketing campaigns. Performed data preprocessing and feature engineering to optimize clustering inputs and improve segment clarity. Used Seaborn and Matplotlib to visualize customer clusters and extract actionable insights related to preferences, discount sensitivity, and product targeting strategies.
+
+
+
+Big Mountain Capstone – Ski Resort Data Analysis
+Dec 2024 - Jan 2025
+Springboard logo
+Associated with Springboard
+developed a data pipeline to clean, process, and analyze ski resort and state-level summary data. Conducted in-depth exploratory data analysis (EDA) to uncover patterns in resort metrics and identify factors influencing ticket price increases. Designed and implemented a machine learning pipeline to predict pricing trends and model scenarios impacting revenue. Delivered actionable insights to simulate operational strategies for ski resorts.
+
+Skills: Python (Programming Language) · Data Wrangling · Machine Learning · Predictive Modeling · Exploratory Data Analysis
+
+Boston Housing Price Prediction
+Mar 2025 - Apr 2025
+Springboard logo
+Associated with Springboard
+
+Built and evaluated a linear regression model using the Boston Housing dataset to predict property prices based on socioeconomic and structural features. Conducted exploratory data analysis (EDA) with Pandas and Matplotlib to identify key predictors and detect multicollinearity. Assessed model performance using residual analysis and goodness-of-fit metrics to demonstrate the practical application of regression techniques in real estate valuation.
+
+Skills: Linear Regression · Python (Programming Language) · Scikit-Learn · Exploratory Data Analysis · Data Visualization
+
+London Borough Housing Price Analysis
+Dec 2024 - Dec 2024
+Springboard logo
+Associated with Springboard
+Analyzed real-world housing data from London boroughs using Python and Pandas to identify trends in housing price changes over two decades. Performed data wrangling and exploratory data analysis (EDA) to clean and transform the dataset. Created data visualizations using Matplotlib and Seaborn to highlight boroughs with the most significant increases in housing prices. Interpreted findings to inform potential urban planning and economic development decisions.
